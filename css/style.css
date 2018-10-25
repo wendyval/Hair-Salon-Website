@@ -2,7 +2,11 @@ html,
 body {
   margin: 0;
 }
-.header-image{
+header {
+  height: 618px
+}
+.header-image {
+  background: url(/Users/wendyvalladares/Documents/HairSalon-Website/img/header-image.jpg) no-repeat;
   background-size: cover;
   height: 100%;
   width: 100%;
