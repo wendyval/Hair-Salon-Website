@@ -2,10 +2,26 @@ html,
 body {
   margin: 0;
 }
-
 .header-image{
   background-size: cover;
   height: 100%;
   width: 100%;
   margin: 0;
+}
+nav {
+  height: 80px;
+}
+.navbar-nav {
+  text-align: center;
+}
+.navbar-brand {
+  margin-right: 0 !important;
+  padding: 0 70px;
+}
+.nav-link{
+  color: #000 !important;
+  padding: 8px 35px !important;
+}
+.nav-link:hover {
+  opacity: 0.6;
 }
