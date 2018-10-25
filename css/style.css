@@ -29,3 +29,19 @@ nav {
 .nav-link:hover {
   opacity: 0.6;
 }
+/*start of the about us section*/
+h2 {
+  text-align: center;
+  text-transform: capitalize;
+  font: 32px 'Coustard', serif !important;
+}
+.about-us {
+  margin: 50px;
+}
+.about-content {
+  display: block;
+  text-align: justify;
+  margin: 30px 50px 0 50px;
+  font: 17px 'Lato', sans-serif;
+  line-height: 1.4;
+}
