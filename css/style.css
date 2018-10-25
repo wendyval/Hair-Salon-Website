@@ -45,3 +45,14 @@ h2 {
   font: 17px 'Lato', sans-serif;
   line-height: 1.4;
 }
+/*start of the our services section*/
+.our-services{
+  margin: 100px 50px 50px;
+}
+.service-content {
+  display: block;
+  text-align: justify;
+  margin: 30px 50px 0 50px;
+  font: 17px 'Lato', sans-serif;
+  line-height: 1.4;
+}
