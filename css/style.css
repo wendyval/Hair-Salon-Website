@@ -65,7 +65,7 @@ h2 {
   line-height: 1.4;
 }
 /*start of the our services section*/
-.our-services{
+.services-main{
   margin: 100px 50px 50px;
 }
 .service-content {
@@ -74,4 +74,11 @@ h2 {
   margin: 30px 50px 0 50px;
   font: 17px 'Lato', sans-serif;
   line-height: 1.4;
+}
+.service-section {
+  height: 400px;
+  background-color: #f6f4f4;
+}
+.service-img {
+  height: 400px;
 }
