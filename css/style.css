@@ -82,3 +82,14 @@ h2 {
 .service-img {
   height: 400px;
 }
+/*start of the image section*/
+.img-section {
+  padding: 0 70px;
+}
+.card-deck {
+  margin-top: 80px;
+}
+.img-card {
+  height: 200px;
+  border-radius: 0 !important;
+}
