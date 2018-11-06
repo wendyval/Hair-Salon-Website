@@ -2,7 +2,7 @@ html,
 body {
   margin: 0;
 }
-header {
+#index-header {
   height: 618px
 }
 .header-image {
@@ -22,7 +22,7 @@ nav {
   text-align: center;
 }
 .nav-link{
-  color: #fff !important;
+  color: #000 !important;
   padding: 8px 35px !important;
   font: 16px 'Coustard', serif;
   text-transform: uppercase;
