@@ -21,6 +21,9 @@ nav {
 .navbar-nav {
   text-align: center;
 }
+.index-links {
+  color: #fff !important;
+}
 .nav-link{
   padding: 8px 35px !important;
   font: 16px 'Coustard', serif;
