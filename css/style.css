@@ -24,7 +24,7 @@ nav {
 .nav-link{
   color: #fff !important;
   padding: 8px 35px !important;
-  font: 17px 'Coustard', serif;
+  font: 16px 'Coustard', serif;
   text-transform: uppercase;
 }
 .nav-link:hover {
