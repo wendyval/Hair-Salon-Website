@@ -174,3 +174,11 @@ form {
 #appt-btn {
   padding: 7px 20px;
 }
+/*STYLIST-PAGE STYLE*/
+.s-card {
+  padding: 60px 30px 30px;
+  border-radius: 0 !important;
+  height: 400px;
+  background-color: #F6F4F4 !important;
+  border: none !important;
+}
