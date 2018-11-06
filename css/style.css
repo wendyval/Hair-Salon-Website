@@ -133,3 +133,7 @@ h2 {
 .social-item:hover {
   color: #000;
 }
+/*Appointment Page Style*/
+#appt-header {
+  background-color: #f6f4f4;
+}
