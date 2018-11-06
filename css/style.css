@@ -22,7 +22,6 @@ nav {
   text-align: center;
 }
 .nav-link{
-  color: #000 !important;
   padding: 8px 35px !important;
   font: 16px 'Coustard', serif;
   text-transform: uppercase;
@@ -136,6 +135,10 @@ h2 {
 /*Appointment Page Style*/
 #appt-header {
   background-color: #f6f4f4;
+  height: 160px;
+}
+.section-links {
+  color: #000 !important;
 }
 .appt-container {
   display: block;
