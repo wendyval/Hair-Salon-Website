@@ -184,6 +184,9 @@ form {
 #stylist-title {
   margin: 30px 0;
 }
+.s-card-area {
+  margin: 30px 0;
+}
 .s-card {
   padding: 60px 30px 30px;
   border-radius: 0 !important;
