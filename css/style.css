@@ -196,4 +196,7 @@ form {
   -webkit-box-shadow: -10px 10px 50px -15px #C9C9C8;
      -moz-box-shadow: -10px 10px 50px -15px #C9C9C8;
           box-shadow: -10px 10px 50px -15px #C9C9C8;
+  font-family: 'Lato', sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 1px;
 }
