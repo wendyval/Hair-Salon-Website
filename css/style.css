@@ -175,6 +175,12 @@ form {
   padding: 7px 20px;
 }
 /*STYLIST-PAGE STYLE*/
+#stylist-img {
+  background-size: cover;
+  height: 100%;
+  width: 100%;
+  margin: 0;
+}
 .s-card {
   padding: 60px 30px 30px;
   border-radius: 0 !important;
