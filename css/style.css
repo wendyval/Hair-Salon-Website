@@ -88,7 +88,7 @@ h2 {
 .img-section {
   padding: 0 70px;
 }
-.card-deck {
+.img-area {
   margin-top: 80px;
 }
 .img-card {
@@ -180,6 +180,9 @@ form {
   height: 100%;
   width: 100%;
   margin: 0;
+}
+#stylist-title {
+  margin: 30px 0 0;
 }
 .s-card {
   padding: 60px 30px 30px;
