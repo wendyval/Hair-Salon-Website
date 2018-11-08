@@ -80,9 +80,24 @@ h2 {
 .service-section {
   height: 400px;
   background-color: #f6f4f4;
+  padding-top: 50px;
 }
 .service-img {
   height: 400px;
+}
+.serv-title {
+  font: 24px 'Lato', sans-serif;
+}
+.serv-info {
+  display: block;
+  margin: 0 auto;
+  text-align: justify;
+  width: 164px;
+  font: 17px 'Lato', sans-serif;
+}
+.serv-line {
+  width: 300px;
+  border: .5px solid black;
 }
 /*start of the image section*/
 .img-section {
@@ -115,7 +130,7 @@ h2 {
   font:18px 'Lato', sans-serif;
 }
 .footer-titles {
-  font:20px bold 'Lato', sans-serif;
+  font: 20px bold 'Lato', sans-serif;
 }
 .hours-info {
   display: block;
