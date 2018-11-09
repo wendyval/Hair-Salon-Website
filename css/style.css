@@ -50,6 +50,20 @@ h1 {
 .navbar-toggler:focus {
   outline: none;
 }
+#header-button {
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 30px;
+}
+#index-button {
+  border: 2.5px solid #fff;
+  font-family: 'Coustard', serif;
+  color: #fff;
+}
+#index-button:hover {
+  background-color: #000
+}
 /*start of the about us section*/
 .section-title {
   text-align: center;
