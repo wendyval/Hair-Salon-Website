@@ -198,6 +198,9 @@ form {
 }
 #stylist-title {
   margin: 30px 0;
+  text-align: center;
+  text-transform: capitalize;
+  font: 30px 'Coustard', serif;
 }
 .s-card-area {
   margin: 30px 0;
