@@ -227,3 +227,11 @@ form {
   text-transform: uppercase;
   letter-spacing: 1px;
 }
+.stylist-button {
+  border: 2.5px solid black !important;
+  font-family: 'Coustard', serif;
+  margin: 30px 0;
+}
+.stylist-button:hover {
+  background-color: black !important;
+}
