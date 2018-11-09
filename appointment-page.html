@@ -42,8 +42,8 @@
 
     <main>
       <div class="appt-container">
-        <h3 class="appt-title">Book Appointment</h3>
-        <p class="appt-content">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sed risus ultricies tristique nulla aliquet enim tortor at auctor. Arcu cursus euismod quis viverra nibh cras pulvinar mattis. Adipiscing tristique risus nec feugiat in fermentum posuere urna.</p>
+        <h3 id="appt-title">Book Appointment</h3>
+        <p id="appt-content">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sed risus ultricies tristique nulla aliquet enim tortor at auctor. Arcu cursus euismod quis viverra.</p>
         <form>
           <div class="form-row">
             <div class="col">
@@ -74,7 +74,9 @@
             <label>Comments:</label>
             <textarea class="form-control rounded-0 appt-border"  rows="3"></textarea>
           </div>
-          <button class="btn btn-small btn-outline-dark contact-button rounded-0 appt-border" id="appt-btn" type="submit">Book It!</button>
+          <div class="text-center">
+            <button class="btn btn-small btn-outline-dark contact-button rounded-0 appt-border" id="appt-btn" type="submit">Book It!</button>
+          </div>
         </form>
       </div>
     </main>
