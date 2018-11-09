@@ -34,11 +34,11 @@ nav {
 }
 h1 {
   text-align: center;
-  margin-bottom: 0 !important;
+  margin-bottom: 15px !important;
 }
 .logo {
   color: #000;
-  font: 40px 'Homemade Apple', cursive;
+  font: 48px 'Abril Fatface', cursive;
 }
 .logo:hover {
   text-decoration: none;
