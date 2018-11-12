@@ -6,11 +6,13 @@ body {
   height: 618px
 }
 .header-image {
-  background: url(/Users/wendyvalladares/Documents/HairSalon-Website/img/header-image.jpg) no-repeat;
+  background-image: url('https://source.unsplash.com/rNPfyRYqjHY');
   background-size: cover;
   height: 100%;
   width: 100%;
   margin: 0;
+  -webkit-filter: grayscale(1);
+  filter: grayscale(1);
 }
 .container {
   padding-top: 10px;
