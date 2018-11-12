@@ -39,12 +39,12 @@ h1 {
   margin-bottom: 15px !important;
 }
 .logo {
-  color: #000;
+  color: #fff;
   font: 48px 'Abril Fatface', cursive;
 }
 .logo:hover {
   text-decoration: none;
-  color: #000;
+  color: #fff;
 }
 .navbar-toggler {
   border: none !important;
