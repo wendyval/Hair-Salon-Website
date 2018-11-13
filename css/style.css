@@ -190,6 +190,10 @@ h1 {
   margin: 0 auto;
   padding: 25px 60px;
   background-color: #fff;
+  position: absolute;
+  right: 0;
+  left: 0;
+  top: 230px;
 }
 #appt-title {
   text-align: center;
