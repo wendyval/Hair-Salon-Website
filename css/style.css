@@ -98,8 +98,22 @@ h1 {
   background-color: #f6f4f4;
   padding-top: 50px;
 }
-.service-img {
+.service-img-container {
   height: 400px;
+}
+#service-img-one {
+  height: auto;
+  width: 100%;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+#service-img-two{
+  height: 400px;
+  width: 100%;
+  position: absolute;
+  left: 0;
+  top: 0;
 }
 .serv-title {
   font: 24px 'Lato', sans-serif;
