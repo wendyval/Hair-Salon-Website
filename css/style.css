@@ -193,19 +193,19 @@ h1 {
   position: absolute;
   right: 0;
   left: 0;
-  top: 230px;
+  top: 260px;
 }
 #appt-title {
   text-align: center;
   margin: 0 0 25px;
-  font: 28px 'Coustard', serif;
+  font: 24px 'Coustard', serif;
 }
 #appt-content {
   font: 15px 'Lato', sans-serif;
   text-align: justify;
 }
 form {
-  margin: 30px 70px;
+  margin: 30px 70px 10px;
   font-family: 'Coustard', serif;
   color: #000;
 }
