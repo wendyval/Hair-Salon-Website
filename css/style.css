@@ -166,7 +166,17 @@ h1 {
 .social-item:hover {
   color: #000;
 }
-/*Appointment Page Style*/
+/*APPOINTMENT PAGE STYLE*/
+#appt-img {
+  background-image: url('https://source.unsplash.com/Z4_CHj4Mb28');
+  background-size: cover;
+  height: 100%;
+  width: 100%;
+  margin: 0;
+}
+#appt-main {
+  height: 800px;
+}
 #appt-header {
   background-color: #f6f4f4;
   height: 160px;
@@ -178,11 +188,12 @@ h1 {
   display: block;
   max-width: 600px;
   margin: 0 auto;
-  padding-bottom: 30px;
+  padding-bottom: 10px;
+  background-color: #fff;
 }
 #appt-title {
   text-align: center;
-  margin: 25px 0;
+  margin: 0 0 25px;
   font: 28px 'Coustard', serif;
 }
 #appt-content {
