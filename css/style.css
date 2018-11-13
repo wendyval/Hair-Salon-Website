@@ -256,7 +256,7 @@ form {
 .s-card {
   padding: 60px 30px 30px;
   border-radius: 0 !important;
-  height: 400px;
+  height: 500px;
   background-color: #F6F4F4 !important;
   border: none !important;
   -webkit-box-shadow: -10px 10px 50px -15px #C9C9C8;
@@ -265,6 +265,15 @@ form {
   font-family: 'Lato', sans-serif;
   text-transform: uppercase;
   letter-spacing: 1px;
+}
+.stylist-img {
+  height: 300px;
+  width: 300px;
+  display: block;
+  margin: 0 auto;
+}
+.stylist-info {
+  margin-top: 10px;
 }
 .stylist-button {
   border: 2.5px solid black !important;
