@@ -199,6 +199,8 @@ footer {
   height: 100%;
   width: 100%;
   margin: 0;
+  -webkit-filter: grayscale(100%);
+    filter: grayscale(100%);
 }
 #appt-main {
   height: 800px;
