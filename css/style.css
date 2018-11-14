@@ -71,6 +71,12 @@ h1 {
   background-color: #0000E5;
   height: 390px;
 }
+#about-container {
+  display: block;
+  margin: 0 auto;
+  max-width: 750px;
+  padding-top: 110px;
+}
 .section-title {
   text-align: center;
   text-transform: capitalize;
@@ -79,7 +85,6 @@ h1 {
 .about-content {
   display: block;
   text-align: justify;
-  margin: 30px 50px 0 50px;
   font: 17px 'Lato', sans-serif;
   line-height: 1.4;
 }
