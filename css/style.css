@@ -63,7 +63,8 @@ h1 {
   color: #fff;
 }
 #index-button:hover {
-  background-color: #000
+  background-color: #fff;
+  color: #0000E5;
 }
 /*start of the about us section*/
 .section-title {
