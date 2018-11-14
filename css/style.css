@@ -148,6 +148,9 @@ h1 {
     filter: grayscale(100%);
 }
 /*start of the footer*/
+footer {
+  border: 15px solid #fff;
+}
 .footer-image {
   background-size: cover;
   height: 100%;
