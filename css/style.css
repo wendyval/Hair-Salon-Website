@@ -2,6 +2,9 @@ html,
 body {
   margin: 0;
 }
+body {
+  background-color: #fff;
+}
 #index-header {
   height: 618px
 }
@@ -91,19 +94,36 @@ h1 {
   color: #fff;
 }
 /*start of the our services section*/
+.service-container {
+  margin-top: 30px;
+}
 .service-section {
   height: 400px;
   padding-top: 50px;
 }
 .serv-title {
-  font: 24px 'Lato', sans-serif;
+  font: bold 33px 'Lato', sans-serif;
+  color: #0000E5;
+  margin-bottom: 20px;
 }
 .serv-info {
   display: block;
   margin: 0 auto;
   text-align: justify;
-  width: 164px;
-  font: 17px 'Lato', sans-serif;
+  width: 300px;
+  padding-left: 65px;
+  font: 20px 'Lato', sans-serif;
+  color: #0000E5;
+  line-height: 1.4;
+}
+#service-line {
+  position: absolute;
+  height: 400px;
+  width: 100%;
+  top: 0;
+  left: 50%;
+  margin-left: -3px;
+  border-left: 3px solid #0000E5;
 }
 /*start of the image section*/
 .img-section {
