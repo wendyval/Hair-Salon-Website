@@ -144,6 +144,8 @@ h1 {
   left: 0;
   top: 0;
   border-radius: 0 !important;
+  -webkit-filter: grayscale(100%);
+    filter: grayscale(100%);
 }
 /*start of the footer*/
 .footer-image {
