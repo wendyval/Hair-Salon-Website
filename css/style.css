@@ -91,37 +91,9 @@ h1 {
   color: #fff;
 }
 /*start of the our services section*/
-.services-main{
-  margin: 100px 50px 50px;
-}
-.service-content {
-  display: block;
-  text-align: justify;
-  margin: 30px 50px 0 50px;
-  font: 17px 'Lato', sans-serif;
-  line-height: 1.4;
-}
 .service-section {
   height: 400px;
-  background-color: #f6f4f4;
   padding-top: 50px;
-}
-.service-img-container {
-  height: 400px;
-}
-#service-img-one {
-  height: auto;
-  width: 100%;
-  position: absolute;
-  left: 0;
-  top: 0;
-}
-#service-img-two{
-  height: 400px;
-  width: 100%;
-  position: absolute;
-  left: 0;
-  top: 0;
 }
 .serv-title {
   font: 24px 'Lato', sans-serif;
@@ -132,10 +104,6 @@ h1 {
   text-align: justify;
   width: 164px;
   font: 17px 'Lato', sans-serif;
-}
-.serv-line {
-  width: 300px;
-  border: .5px solid black;
 }
 /*start of the image section*/
 .img-section {
