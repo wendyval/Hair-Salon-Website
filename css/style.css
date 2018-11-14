@@ -206,10 +206,19 @@ footer {
   height: 800px;
 }
 #appt-header {
-  background-color: #f6f4f4;
-  height: 160px;
+  background-color: #0000E5;
+  height: 250px;
+  border: 15px solid #fff;
+  padding-top: 30px;
+}
+.second-logo {
+  color: #fff !important;
+  font: 48px 'Abril Fatface', cursive;
 }
 .section-links {
+  color: #fff !important;
+}
+.section-links:hover {
   color: #000 !important;
 }
 .appt-container {
