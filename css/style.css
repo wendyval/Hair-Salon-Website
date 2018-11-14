@@ -13,6 +13,7 @@ body {
   margin: 0;
   -webkit-filter: grayscale(1);
   filter: grayscale(1);
+  border: 15px solid #fff;
 }
 .container {
   padding-top: 10px;
