@@ -230,7 +230,10 @@ footer {
   position: absolute;
   right: 0;
   left: 0;
-  top: 260px;
+  top: 105px;
+  -webkit-box-shadow: -10px 10px 55px -7px #000;
+     -moz-box-shadow: -10px 10px 55px -7px #000;
+          box-shadow: -10px 10px 55px -7px #000;
 }
 #appt-title {
   text-align: center;
