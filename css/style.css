@@ -103,7 +103,7 @@ h1 {
 }
 .serv-title {
   font: bold 33px 'Lato', sans-serif;
-  color: #0000E5;
+  color: #A8763E;
   margin-bottom: 20px;
 }
 .serv-info {
@@ -113,7 +113,7 @@ h1 {
   width: 300px;
   padding-left: 65px;
   font: 20px 'Lato', sans-serif;
-  color: #0000E5;
+  color: #A8763E;
   line-height: 1.4;
 }
 #service-line {
@@ -123,7 +123,7 @@ h1 {
   top: 0;
   left: 50%;
   margin-left: -3px;
-  border-left: 3px solid #0000E5;
+  border-left: 3px solid #A8763E;
 }
 /*start of the image section*/
 .img-section {
