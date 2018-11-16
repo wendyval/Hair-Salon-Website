@@ -133,6 +133,31 @@ h1 {
   margin-left: -3px;
   border-left: 3px solid #A8763E;
 }
+/*Start of the salon information section*/
+.salon-info {
+  border: 15px solid #fff;
+  background-color: #A8763E;
+  margin-top: 20px;
+  padding: 30px 0;
+}
+.info-titles {
+  font: bold 28px 'Lato', sans-serif;
+  color: #fff;
+}
+.salon-location {
+  display: block;
+  max-width: 200px;
+  margin: 0 auto;
+}
+.hours-info {
+  display: block;
+  max-width: 200px;
+  margin: 0 auto;
+}
+.salon-text {
+  font: 22px 'Lato', sans-serif;
+  color: #fff;
+}
 /*start of the image section*/
 .img-section {
   padding: 0 70px;
@@ -162,24 +187,6 @@ footer {
 .footer-info {
   background-color: #0000E5;
   padding: 30px 0;
-}
-.salon-info {
-  display: block;
-  max-width: 200px;
-  margin: 0 auto;
-}
-.salon-text {
-  font:18px 'Lato', sans-serif;
-  color: #fff;
-}
-.footer-titles {
-  font: 20px bold 'Lato', sans-serif;
-  color: #fff;
-}
-.hours-info {
-  display: block;
-  max-width: 200px;
-  margin: 0 auto;
 }
 .social {
     margin-top: 60px;
