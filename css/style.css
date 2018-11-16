@@ -203,6 +203,22 @@ footer {
 }
 /*END OF INDEX PAGE*/
 /*APPOINTMENT PAGE STYLE*/
+#appt-header {
+  background-color: #A8763E;
+  height: 250px;
+  border: 15px solid #fff;
+  padding-top: 30px;
+}
+.secondary-logo {
+  color: #fff !important;
+  font: 48px 'Abril Fatface', cursive;
+}
+.section-links {
+  color: #fff !important;
+}
+.section-links:hover {
+  color: #000 !important;
+}
 #appt-img {
   background-image: url('https://source.unsplash.com/Z4_CHj4Mb28');
   background-size: cover;
@@ -214,22 +230,6 @@ footer {
 }
 #appt-main {
   height: 800px;
-}
-#appt-header {
-  background-color: #0000E5;
-  height: 250px;
-  border: 15px solid #fff;
-  padding-top: 30px;
-}
-.second-logo {
-  color: #fff !important;
-  font: 48px 'Abril Fatface', cursive;
-}
-.section-links {
-  color: #fff !important;
-}
-.section-links:hover {
-  color: #000 !important;
 }
 .appt-container {
   display: block;
