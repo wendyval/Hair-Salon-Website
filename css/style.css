@@ -212,6 +212,7 @@ footer {
 .secondary-logo {
   color: #fff !important;
   font: 48px 'Abril Fatface', cursive;
+  text-decoration: none !important;
 }
 .section-links {
   color: #fff !important;
