@@ -102,10 +102,11 @@ h1 {
 }
 /*start of the our services section*/
 .service-container {
-  margin-top: 30px;
+  margin: 40px auto;
+  padding: 0;
 }
 .service-section {
-  height: 400px;
+  height: 375px;
   padding-top: 50px;
 }
 .serv-title {
@@ -125,7 +126,7 @@ h1 {
 }
 #service-line {
   position: absolute;
-  height: 400px;
+  height: 375px;
   width: 100%;
   top: 0;
   left: 50%;
