@@ -212,7 +212,10 @@ footer {
 .secondary-logo {
   color: #fff !important;
   font: 48px 'Abril Fatface', cursive;
-  text-decoration: none !important;
+}
+.secondary-logo:hover  {
+    text-decoration: none;
+    color: #000;
 }
 .section-links {
   color: #fff !important;
@@ -281,14 +284,6 @@ form {
   text-transform: uppercase;
 }
 /*STYLIST-PAGE STYLE*/
-.second-logo {
-  color: #000;
-  font: 48px 'Abril Fatface', cursive;
-}
-.second-logo:hover  {
-    text-decoration: none;
-    color: #000;
-}
 #stylist-img {
   background-size: cover;
   height: 100%;
