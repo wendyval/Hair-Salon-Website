@@ -109,10 +109,11 @@ h1 {
 .service-section {
   height: 375px;
   padding-top: 50px;
+  border: 10px solid #a8763E;
 }
 .serv-title {
   font: bold 33px 'Lato', sans-serif;
-  color: #A8763E;
+  color: #a8763e;
   margin-bottom: 20px;
 }
 .serv-info {
@@ -122,17 +123,8 @@ h1 {
   width: 300px;
   padding-left: 65px;
   font: 20px 'Lato', sans-serif;
-  color: #A8763E;
+  color: #a8763e;
   line-height: 1.4;
-}
-#service-line {
-  position: absolute;
-  height: 375px;
-  width: 100%;
-  top: 0;
-  left: 50%;
-  margin-left: -3px;
-  border-left: 3px solid #A8763E;
 }
 /*Start of the salon information section*/
 .salon-info {
