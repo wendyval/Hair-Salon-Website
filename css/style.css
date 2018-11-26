@@ -11,6 +11,7 @@ body {
 .header-image {
   background-image: url('https://source.unsplash.com/tX_WLctdhvw');
   background-size: cover;
+  background-position: center;
   height: 100%;
   width: 100%;
   margin: 0;
@@ -331,4 +332,9 @@ form {
 .stylist-button:hover {
   background-color: #a8763e !important;
   color: #fff !important;
+}
+@media screen and (max-width: 991px) {
+  #appt-header {
+    border: none;
+  }
 }
