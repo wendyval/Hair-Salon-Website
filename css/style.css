@@ -155,23 +155,25 @@ h1 {
 .img-section {
   padding: 0 70px;
 }
-.img-area {
-  margin: 30px 0;
-}
 .img-card {
   height: 230px;
   border-radius: 0 !important;
   border: none !important;
+  width: 238px;
+  display: block;
+  margin: 0 auto;
 }
 .card-img {
-  height: 230px;
+  background-size: cover;
+  height: 100%;
   width: 100%;
-  position: absolute;
-  left: 0;
-  top: 0;
+  margin: 0;
   border-radius: 0 !important;
   -webkit-filter: grayscale(100%);
     filter: grayscale(100%);
+}
+.card-column {
+  margin: 30px 0;
 }
 /*start of the footer*/
 footer {
