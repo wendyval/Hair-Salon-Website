@@ -26,12 +26,10 @@ nav {
 .navbar-nav {
   text-align: center;
 }
-.index-links {
-  color: #fff !important;
-}
 .nav-link{
+  color: #fff !important;
   padding: 8px 35px !important;
-  font: 16px 'Coustard', serif;
+  font: 15px 'Coustard', serif;
   text-transform: uppercase;
 }
 .nav-link:hover {
@@ -202,24 +200,14 @@ li {
 /*END OF INDEX PAGE*/
 /*APPOINTMENT PAGE STYLE*/
 #appt-header {
-  background-color: #A8763E;
-  height: 250px;
-  border: 15px solid #fff;
-  padding-top: 30px;
+  background-color: #232021;
 }
 .secondary-logo {
-  color: #fff !important;
-  font: 48px 'Abril Fatface', cursive;
+  color: #a8763e !important;
+  font: 40px 'Abril Fatface', cursive !important;
 }
 .secondary-logo:hover  {
     text-decoration: none;
-    color: #000;
-}
-.section-links {
-  color: #fff !important;
-}
-.section-links:hover {
-  color: #000 !important;
 }
 #appt-img {
   background-image: url('https://source.unsplash.com/Z4_CHj4Mb28');
