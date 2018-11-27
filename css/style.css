@@ -400,6 +400,19 @@ form {
   .appt-container {
     top: 60px;
   }
+  /*For Stylist Page*/
+  .s-card {
+    -webkit-box-shadow: none;
+       -moz-box-shadow: none;
+            box-shadow: none;
+  }
+  .s-card-area {
+    padding: 0 !important;
+  }
+  .stylist-img {
+    height: 265px;
+    width: 255px;
+  }
 }
 @media screen and (max-width: 320px) {
   /*For the Index*/
