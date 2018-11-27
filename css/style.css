@@ -359,28 +359,56 @@ form {
   .info-titles {
     font-size: 30px;
   }
+  /*For Appointment-Page*/
+  #appt-img {
+    background: none;
+    background-color: #fff;
+  }
+  .appt-container {
+    top: 90px;
+    -webkit-box-shadow: none;
+       -moz-box-shadow: none;
+            box-shadow: none;
+  }
+  #appt-main {
+    height: 768px;
+  }
 }
 @media screen and (max-width: 550px) {
+  /*For the Index*/
   #about-container {
     width: 300px;
     padding-top: 70px;
   }
+  .appt-container {
+    top: 70px;
+  }
 }
 @media screen and (max-width: 414px) {
+  /*For the Index*/
   li {
     display: block;
   }
+  /*For Appointment-Page*/
+  .secondary-logo {
+    font-size: 32px !important;
+  }
+  form {
+    margin-left: 0;
+    margin-right: 0;
+  }
+  .appt-container {
+    top: 60px;
+  }
 }
 @media screen and (max-width: 320px) {
+  /*For the Index*/
   .section-title {
     font-size: 25px;
   }
   #about-container {
     width: 250px;
     padding-top: 45px;
-  }
-  .serv-info {
-    margin-left: 47px;
   }
   .info-titles {
     font-size: 20px;
@@ -395,5 +423,12 @@ form {
     font-size: 17px;
     margin: 0;
     width: 250px;
+  }
+  /*For Appointment-Page*/
+  .secondary-logo {
+    font-size: 28px !important;
+  }
+  .appt-container {
+    top: 20px;
   }
 }
