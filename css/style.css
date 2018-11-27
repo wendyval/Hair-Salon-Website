@@ -210,8 +210,9 @@ li {
     text-decoration: none;
 }
 #appt-img {
-  background-image: url('https://source.unsplash.com/Z4_CHj4Mb28');
+  background-image: url('https://source.unsplash.com/oM5YoMhTf8E');
   background-size: cover;
+  background-position: center;
   height: 100%;
   width: 100%;
   margin: 0;
