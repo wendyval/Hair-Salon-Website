@@ -56,7 +56,7 @@ h1 {
   outline: none;
 }
 #header-button {
-  position: absolute;
+  position: relative;
   left: 0;
   right: 0;
   bottom: 50px !important;
