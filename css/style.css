@@ -35,7 +35,7 @@ nav {
   text-transform: uppercase;
 }
 .nav-link:hover {
-  color: #0000E5 !important;
+  color: #a8763e !important;
 }
 h1 {
   text-align: center;
@@ -68,7 +68,7 @@ h1 {
 }
 #index-button:hover {
   background-color: #fff;
-  color: #0000E5;
+  color: #a8763e;
 }
 /*below is for the images used in the index body*/
 .main-page-image {
