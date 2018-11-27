@@ -330,8 +330,81 @@ form {
   background-color: #a8763e !important;
   color: #fff !important;
 }
+/*Start of the Media Queries*/
 @media screen and (max-width: 991px) {
+  /*For the Index*/
   #appt-header {
     border: none;
+  }
+  #about-container {
+    width: 700px;
+  }
+  .serv-info {
+    padding-left: 45px;
+  }
+}
+@media screen and (max-width: 768px){
+  /*For the Index*/
+  .logo {
+    font-size: 30px;
+  }
+  #about-container {
+    width: 500px;
+    padding-top: 90px;
+  }
+  #first-section {
+    margin-bottom: 40px;
+    margin-right:
+  }
+  .serv-info {
+    padding-left: 65px;
+  }
+  .salon-location {
+    text-align: center;
+    width: 300px;
+    margin-bottom: 40px;
+  }
+  .hours-info {
+    text-align: center;
+  }
+  .info-titles {
+    font-size: 30px;
+  }
+}
+@media screen and (max-width: 550px) {
+  #about-container {
+    width: 300px;
+    padding-top: 70px;
+  }
+}
+@media screen and (max-width: 414px) {
+  li {
+    display: block;
+  }
+}
+@media screen and (max-width: 320px) {
+  .section-title {
+    font-size: 25px;
+  }
+  #about-container {
+    width: 250px;
+    padding-top: 45px;
+  }
+  .serv-info {
+    margin-left: 47px;
+  }
+  .info-titles {
+    font-size: 20px;
+  }
+  .salon-text {
+    font-size: 17px;
+  }
+  .serv-title {
+    font-size: 20px;
+  }
+  .serv-info {
+    font-size: 17px;
+    margin: 0;
+    width: 250px;
   }
 }
