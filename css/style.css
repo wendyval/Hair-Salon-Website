@@ -228,7 +228,7 @@ li {
   margin: 0 auto;
   padding: 25px 60px;
   background-color: #fff;
-  position: absolute;
+  position: relative;
   right: 0;
   left: 0;
   top: 105px;
