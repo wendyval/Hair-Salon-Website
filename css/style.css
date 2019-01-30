@@ -75,6 +75,7 @@ h1 {
 #btn-link:hover {
   color: #a8763e;
 }
+
 /*below is for the images used in the index body*/
 .main-page-image {
   background-size: cover;
@@ -82,6 +83,7 @@ h1 {
   width: 100%;
   margin: 0;
 }
+
 /*start of the about us section*/
 .about-us {
   background-color: #fff;
@@ -106,6 +108,7 @@ h1 {
   line-height: 1.4;
   color: #A8763E;
 }
+
 /*start of the our services section*/
 .service-container {
   margin: 40px auto;
@@ -131,6 +134,7 @@ h1 {
   color: #a8763e;
   line-height: 1.4;
 }
+
 /*Start of the salon information section*/
 .salon-info {
   border: 15px solid #fff;
@@ -156,6 +160,7 @@ h1 {
   font: 22px 'Lato', sans-serif;
   color: #a8763e;
 }
+
 /*start of the image section*/
 .img-section {
   padding: 0 70px;
@@ -180,6 +185,7 @@ h1 {
 .card-column {
   margin: 30px 0;
 }
+
 /*start of the footer*/
 footer {
   border: 15px solid #fff;
@@ -205,6 +211,7 @@ li {
   display: inline-block;
 }
 /*END OF INDEX PAGE*/
+
 /*APPOINTMENT PAGE STYLE*/
 #appt-header {
   background-color: #232021;
@@ -277,6 +284,7 @@ form {
   font: 17px 'Coustard', serif;
   text-transform: uppercase;
 }
+
 /*STYLIST-PAGE STYLE*/
 #stylist-img {
   background-size: cover;
@@ -326,9 +334,10 @@ form {
   background-color: #a8763e !important;
   color: #fff !important;
 }
+
 /*Start of the Media Queries*/
 @media screen and (max-width: 991px) {
-  /*For the Index*/
+  /*Below is for the Homepage*/
   #appt-header {
     border: none;
   }
@@ -340,7 +349,7 @@ form {
   }
 }
 @media screen and (max-width: 768px){
-  /*For the Index*/
+  /*Below is for the Homepage*/
   .logo {
     font-size: 30px;
   }
@@ -366,7 +375,7 @@ form {
   .info-titles {
     font-size: 30px;
   }
-  /*For Appointment-Page*/
+  /*Below is for the Appointment-Page*/
   #appt-img {
     background: none;
     background-color: #fff;
@@ -382,7 +391,7 @@ form {
   }
 }
 @media screen and (max-width: 550px) {
-  /*For the Index*/
+  /*Below is for the Homepage*/
   #about-container {
     width: 300px;
     padding-top: 70px;
@@ -392,11 +401,11 @@ form {
   }
 }
 @media screen and (max-width: 414px) {
-  /*For the Index*/
+  /*Below is for the Homepage*/
   li {
     display: block;
   }
-  /*For Appointment-Page*/
+  /*Below is for the Appointment-Page*/
   .secondary-logo {
     font-size: 32px !important;
   }
@@ -407,7 +416,7 @@ form {
   .appt-container {
     top: 60px;
   }
-  /*For Stylist Page*/
+  /*Below is for the Stylist Page*/
   .s-card {
     -webkit-box-shadow: none;
        -moz-box-shadow: none;
@@ -422,7 +431,7 @@ form {
   }
 }
 @media screen and (max-width: 320px) {
-  /*For the Index*/
+  /*Below is for the Homepage*/
   .section-title {
     font-size: 25px;
   }
@@ -444,7 +453,7 @@ form {
     margin: 0;
     width: 250px;
   }
-  /*For Appointment-Page*/
+  /*Below is for the Appointment-Page*/
   .secondary-logo {
     font-size: 28px !important;
   }
