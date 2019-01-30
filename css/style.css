@@ -61,11 +61,18 @@ h1 {
 }
 #index-button {
   border: 2.5px solid #fff;
-  font-family: 'Coustard', serif;
   color: #fff;
 }
 #index-button:hover {
   background-color: #fff;
+  color: #a8763e;
+}
+#btn-link {
+  font-family: 'Coustard', serif;
+  color: #fff;
+  text-decoration: none;
+}
+#btn-link:hover {
   color: #a8763e;
 }
 /*below is for the images used in the index body*/
