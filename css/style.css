@@ -328,11 +328,16 @@ form {
   border: 2.5px solid #a8763e !important;
   font-family: 'Coustard', serif;
   margin: 30px 0;
-  color: #a8763e !important;
 }
 .stylist-button:hover {
   background-color: #a8763e !important;
-  color: #fff !important;
+}
+#s-btn {
+  text-decoration: none;
+  color: #a8763e;
+}
+#s-btn:hover {
+  color: #fff;
 }
 
 /*Start of the Media Queries*/
